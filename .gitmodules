@@ -1,0 +1,9 @@
+[submodule "BHC"]
+	path = BHC
+	url = git@github.com:DorianSzlachcic/BHC.git
+[submodule "BHC-django"]
+	path = BHC-django
+	url = git@github.com:DorianSzlachcic/BHC-django.git
+[submodule "BHC-react"]
+	path = BHC-react
+	url = git@github.com:DorianSzlachcic/BHC-react.git
